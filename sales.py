@@ -93,5 +93,5 @@ with st.expander("💡 Key Insights"):
 # --- Footer ---
 st.markdown("""
 <hr>
-<p style='text-align:center;'> <i> Tip: Update your CSV and reload for fresh results.<br>Built with Streamlit & Plotly | Author: Your Name </i></p>
+<p style='text-align:center;'><br>Built with Streamlit & Plotly | Author: Kritika Rewri </i></p>
 """, unsafe_allow_html=True)
