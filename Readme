@@ -32,7 +32,7 @@ This project demonstrates an end-to-end data analytics workflow. Using a retail 
 
 1. **Clone this repository:**
     ```
-    git clone https://github.com/kritikarewrimsc23-blip/sales-retail-dashboard.git
+    git clone https://github.com/kritikarewrimsc23-blip/salesretaildashboard.git
     cd sales-retail-dashboard
     ```
 2. **Install dependencies:**
