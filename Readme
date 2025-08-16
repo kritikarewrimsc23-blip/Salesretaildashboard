@@ -1,0 +1,85 @@
+# 🛒 Retail Sales Analysis Dashboard
+
+A fully interactive dashboard for analyzing retail sales data, built with Python, Streamlit, and Plotly.
+
+---
+
+## 🌐 Live Demo
+
+[Open the Retail Sales Dashboard](https://salesretaildashboard-ejyxim7lmamqctdnfhwjeq.streamlit.app/)
+
+---
+
+## 📋 Project Overview
+
+This project demonstrates an end-to-end data analytics workflow. Using a retail sales dataset from Kaggle, I performed comprehensive data cleaning, exploratory analysis, and generated actionable business insights, all showcased through a professionally designed interactive dashboard.
+
+---
+
+## 🚀 Features
+
+- **Total and Category Sales:** Instantly view total revenue and compare sales across product categories.
+- **Monthly Trends:** Identify sales patterns and seasonality with interactive time-series analysis.
+- **Customer Analysis:** Discover which age groups and customer segments drive the most revenue.
+- **Top Customers:** See your top 10 customers by revenue contribution.
+- **Category-wise Filtering:** Use the sidebar to dynamically filter sales by product category.
+- **Interactive Visuals:** All plots are interactive (hover, zoom, filter), powered by Plotly.
+- **Business Insights:** Expandable sections highlight key findings.
+
+---
+
+## 🗂️ How to Run Locally
+
+1. **Clone this repository:**
+    ```
+    git clone https://github.com/your-username/sales-retail-dashboard.git
+    cd sales-retail-dashboard
+    ```
+2. **Install dependencies:**
+    ```
+    pip install -r requirements.txt
+    ```
+3. **Run the app:**
+    ```
+    streamlit run sales.py
+    ```
+
+---
+
+## 📦 Files
+
+- `sales.py` — The Streamlit dashboard script.
+- `cleaned_sales.csv` — Cleaned retail sales data (from Kaggle).
+- `requirements.txt` — List of Python dependencies.
+- `README.md` — Project documentation (this file).
+
+---
+
+## 🧠 Key Insights
+
+- Highest sales in the Electronics category.
+- Sales peak during holidays (November/December).
+- Customers aged 21–40 are the largest contributors.
+- A small number of loyal customers provide most revenue.
+
+---
+
+
+
+## 🛠️ Technologies Used
+
+- Python, Pandas,Numpy, Plotly, Streamlit
+
+---
+
+## 📢 Notes
+
+- **Data Source:** [Kaggle Retail Sales Dataset](https://kaggle.com/) 
+- The dashboard is live—no installation required! Visit the link above.
+
+---
+
+## 👤 Author
+
+- *Kritika Rewri*
+- [LinkedIn](https://www.linkedin.com/in/kritika-r-8a9465217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
